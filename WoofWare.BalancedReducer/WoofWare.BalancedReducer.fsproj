@@ -7,7 +7,7 @@
       <Copyright>Copyright (c) Patrick Stevens 2025</Copyright>
       <Description>A single-module library with a data structure that incrementally maintains the result of folding an associative operation over a mutable fixed-length sequence as its elements change.</Description>
       <RepositoryType>git</RepositoryType>
-      <RepositoryUrl>https://github.com/Smaug123/WoofWare.BalancedReducer</RepositoryUrl>
+      <RepositoryUrl>https://github.com/WoofWare/WoofWare.BalancedReducer</RepositoryUrl>
       <PackageLicenseExpression>MIT</PackageLicenseExpression>
       <PackageReadmeFile>README.md</PackageReadmeFile>
       <PackageIcon>light.png</PackageIcon>
